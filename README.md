@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I'm currently working on a Telegram bot that suggests a new gamification approach to doing household chores with kids.<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with <br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I'm currently working on a Telegram bot that suggests a new gamification approach to doing household chores with kids.
+<br>👯 I’m looking to collaborate on
+<br>🤝 I’m looking for help with 
+<br>🌱 I’m currently learning<br>💬 Ask me about
+<br>⚡ Fun fact: I enjoy experimenting with new programming languages in my spare time to broaden my skill set and perspective on software development.
 
 
 ## 🌐 Socials:
