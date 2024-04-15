@@ -1,12 +1,11 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I'm currently working on a Telegram bot that suggests a new gamification approach to doing household chores with kids.
+<br>🔭 I'm currently working on a Telegram bot that suggests a new gamification approach to doing household chores with kids.
 <br>👯 I'm keen to work on open-source projects that involve modern and complex AI techniques.
 <br>🌱 I'm currently learning the asynchronous part of Python and diving deep into database stuff, design, and architectural patterns.
 <br>💬 Ask me about async Python, Python web frameworks, database optimization and how to avoid getting burned out at work🔥
 <br>⚡ Fun fact: I enjoy experimenting with new programming languages in my spare time to broaden my skill set and perspective on software development.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maxim-zorin-python-dev/) 
